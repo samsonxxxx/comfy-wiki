@@ -1,0 +1,2 @@
+# IPAdapter
+Примеры использования IPAdapter.
