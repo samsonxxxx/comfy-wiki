@@ -24,6 +24,7 @@ nav:
           - SDXL Control net: sdxl-controlnet.md
       - Upscales/hires/hand fix, face detailer и прочие улучшения:
           - SDXL upscales: sdxl-upscales.md
+          - 1: SDXL_handfix_upscale_ART.md
           - FLUX upscales: flux-upscales.md
       - Видео и анимация: video.md
   - Работа с LoRA:
