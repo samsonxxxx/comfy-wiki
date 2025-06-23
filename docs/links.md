@@ -1,0 +1,5 @@
+- [Официальный репозиторий ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+- - [Telegram чат StableDif OREX ([https://t.me/prompt_by_art](https://t.me/stable_dif))
+- [Telegram чат SD_Prompt_by_Art](https://t.me/prompt_by_art)
+-  [Telegram чат GOS]( [Telegram чат SD_Prompt_by_Art](https://t.me/prompt_by_art))
+- [YouTube плейлист](https://youtu.be/rL60DmDFaDo?si=W7tWTOHGA6wL0Tt8)
