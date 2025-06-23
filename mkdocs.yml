@@ -1,0 +1,15 @@
+site_name: ComfyUI Wiki
+theme:
+  name: material
+  language: ru
+nav:
+  - Главная: index.md
+  - Установка и интерфейс: install.md
+  - Workflow:
+      - SDXL портрет: workflow-sdxl.md
+      - Видео: workflow-video.md
+  - Ноды и расширения:
+      - FLUX: flux.md
+      - IPAdapter: ipadapter.md
+  - Полезные ссылки: links.md
+  - FAQ: faq.md
