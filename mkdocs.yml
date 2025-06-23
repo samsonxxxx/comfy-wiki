@@ -4,3 +4,31 @@ theme:
   language: ru
 nav:
   - Главная: index.md
+  - Быстрый старт:
+      - Установка и интерфейс: install.md
+      - FAQ: faq.md
+  - Модели:
+      - Базовые модели: models-basic.md
+      - LoRA: models-lora.md
+      - Прочие модели: models-others.md
+  - Workflows:
+      - Txt2Img:
+          - SDXL: workflows-txt2img-sdxl.md
+          - FLUX: workflows-txt2img-flux.md
+      - Img2Img:
+          - SDXL: workflows-img2img-sdxl.md
+          - FLUX: workflows-img2img-flux.md
+      - Inpainting:
+          - SDXL: workflows-inpaint-sdxl.md
+          - FLUX: workflows-inpaint-flux.md
+      - Улучшения и апскейлы:
+          - Upscale: workflows-upscale.md
+      - Видео и анимация: workflows-video.md
+  - Инструменты:
+      - ControlNet: tools-controlnet.md
+      - IPAdapter: tools-ipadapter.md
+      - Замена лиц: tools-face.md
+  - Полезные ссылки и гайды: useful-links.md
+  - Галерея:
+      - Промты: gallery-prompts.md
+      - Примеры работ: gallery-examples.md
