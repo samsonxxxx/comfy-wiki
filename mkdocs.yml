@@ -1,0 +1,6 @@
+site_name: ComfyUI Wiki
+theme:
+  name: material
+  language: ru
+nav:
+  - Главная: index.md
