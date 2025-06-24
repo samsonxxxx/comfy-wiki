@@ -1,0 +1,17 @@
+backend:
+  name: github
+  repo: samsonxxxx/comfy-wiki
+  branch: main
+
+media_folder: "docs/images"
+public_folder: "/images"
+
+collections:
+  - name: "pages"
+    label: "Pages"
+    folder: "docs"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
